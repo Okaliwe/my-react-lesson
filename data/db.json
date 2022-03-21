@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Post One",
+      "body": "This ia post one",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Post two",
+      "body": "This ia post two",
+      "author": "luigi",
+      "id": 2
+    },
+    {
+      "title": "The big fish",
+      "body": "Whales are very common in columbian waters as they could grow to a length of 300inch",
+      "author": "luigi",
+      "id": 3
+    }
+  ]
+}
